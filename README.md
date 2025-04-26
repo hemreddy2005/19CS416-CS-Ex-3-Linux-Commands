@@ -1,6 +1,7 @@
 # CC-LAB-3-Linux Commands Study
 # NAME: GOKUL SHARAN R
 # REG NO: 212223040052
+# DATE: 22/03/2025
 
 ## Introduction to Linux
 
